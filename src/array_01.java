@@ -43,10 +43,9 @@ public class array_01 {
 		/*
 		  map을 사용하여 배열 출력 
 		 */
-		array_01 a1 = new array_01();
 		
-		a1.map_print_int();
-		a1.map_print_char();
+		map_print_int();
+		map_print_char();
 		
 	}
 	
